@@ -1,0 +1,8 @@
+Xrandr
+============
+Gives a better interface to useful xrandr operations.
+- Shows xrandr information
+- set-resolution-compatible lets you chose between resolutions compatible with the internal and external display
+- set-resolution-extern sets the resolution best for the external display and disables the intern display
+- dual-monitor gives a simple dual monitor setup
+- Has helper functions for disableing dpms and xscreensaver
